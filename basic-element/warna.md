@@ -1,10 +1,24 @@
 ---
 icon: palette
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Warna
 
-### Warna Utama
+## Warna Utama
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Primary</strong></td><td><kbd>#12345</kbd></td><td>R:878 G:767 B878</td><td><a href="../.gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png">Screenshot 2025-08-30 at 17.25.14.png</a></td></tr><tr><td><strong>Secondary</strong></td><td>#123</td><td>R:878 G:767 B878</td><td><a href="../.gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png">Screenshot 2025-08-30 at 17.25.14.png</a></td></tr><tr><td><strong>Accent</strong></td><td>#231421</td><td>R:878 G:767 B878</td><td><a href="../.gitbook/assets/https___gitbookio.github.io_onboarding-template-images_images-hero.webp">https___gitbookio.github.io_onboarding-template-images_images-hero.webp</a></td></tr><tr><td><strong>Base</strong></td><td>#231421</td><td>R:878 G:767 B878</td><td><a href="../.gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png">Screenshot 2025-08-30 at 17.25.14.png</a></td></tr></tbody></table>
 

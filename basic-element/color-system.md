@@ -4,109 +4,53 @@
 Warna utama Clipan Finance mencerminkan profesionalisme, kepercayaan, dan semangat modern. Sistem warna ini dirancang untuk menciptakan pengalaman visual yang konsisten dan aksesibel.
 {% endhint %}
 
-## 🔵 Warna Primer
+## Warna Utama
 
-{% tabs %}
-{% tab title="Biru Clipan" %}
-#### ![](<../.gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png>)
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Primary</strong></td><td><kbd>#12345</kbd></td><td>R:878 G:767 B878</td><td><a href="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688">https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688</a></td></tr><tr><td><strong>Secondary</strong></td><td>#123</td><td>R:878 G:767 B878</td><td><a href="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688">https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688</a></td></tr><tr><td><strong>Accent</strong></td><td>#231421</td><td>R:878 G:767 B878</td><td><a href="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FrFYIwWlRs72jv5v0b1IT%2Fhttps___gitbookio.github.io_onboarding-template-images_images-hero.webp?alt=media&#x26;token=b89702cb-81bd-4a99-819e-7a24ec5e6723">https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FrFYIwWlRs72jv5v0b1IT%2Fhttps___gitbookio.github.io_onboarding-template-images_images-hero.webp?alt=media&#x26;token=b89702cb-81bd-4a99-819e-7a24ec5e6723</a></td></tr><tr><td><strong>Base</strong></td><td>#231421</td><td>R:878 G:767 B878</td><td><a href="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688">https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688</a></td></tr></tbody></table>
 
-#### Biru Clipan
+## Gradient
 
-* **HEX:** `#005BAC`
-* **RGB:** (0, 91, 172)
-* **HSL:** 208, 100%, 34%
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Gradient Pri</strong></td><td><ul><li>HEX: #345679</li><li>RGB<strong>:</strong> (0, 91, 172)</li><li>hsl<strong>:</strong> 208, 100%, 34%</li><li>css: gr-primary</li></ul></td><td><a href="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FrFYIwWlRs72jv5v0b1IT%2Fhttps___gitbookio.github.io_onboarding-template-images_images-hero.webp?alt=media&#x26;token=b89702cb-81bd-4a99-819e-7a24ec5e6723">https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FrFYIwWlRs72jv5v0b1IT%2Fhttps___gitbookio.github.io_onboarding-template-images_images-hero.webp?alt=media&#x26;token=b89702cb-81bd-4a99-819e-7a24ec5e6723</a></td></tr><tr><td><strong>Gradient Secondary</strong></td><td><ul><li>HEX: #345679</li></ul><ul><li>RGB<strong>:</strong> (0, 91, 172)</li></ul><ul><li>hsl<strong>:</strong> 208, 100%, 34%</li></ul><ul><li>css: gr-secondary</li></ul></td><td><a href="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FrFYIwWlRs72jv5v0b1IT%2Fhttps___gitbookio.github.io_onboarding-template-images_images-hero.webp?alt=media&#x26;token=b89702cb-81bd-4a99-819e-7a24ec5e6723">https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FrFYIwWlRs72jv5v0b1IT%2Fhttps___gitbookio.github.io_onboarding-template-images_images-hero.webp?alt=media&#x26;token=b89702cb-81bd-4a99-819e-7a24ec5e6723</a></td></tr><tr><td><strong>Gradient Base</strong></td><td><ul><li>HEX: #345679</li></ul><ul><li>RGB<strong>:</strong> (0, 91, 172)</li></ul><ul><li>hsl<strong>:</strong> 208, 100%, 34%</li></ul><ul><li>css: gr-primary</li></ul></td><td><a href="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FrFYIwWlRs72jv5v0b1IT%2Fhttps___gitbookio.github.io_onboarding-template-images_images-hero.webp?alt=media&#x26;token=b89702cb-81bd-4a99-819e-7a24ec5e6723">https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FrFYIwWlRs72jv5v0b1IT%2Fhttps___gitbookio.github.io_onboarding-template-images_images-hero.webp?alt=media&#x26;token=b89702cb-81bd-4a99-819e-7a24ec5e6723</a></td></tr></tbody></table>
 
-**Variasi Opacity**
+## Pendukung
 
-| Opacity | Use Case                  |
-| ------- | ------------------------- |
-| 100%    | Primary buttons, Headers  |
-| 75%     | Icons, Secondary elements |
-| 50%     | Backgrounds, Hover states |
-| 25%     | Disabled states           |
-{% endtab %}
+| <p><img src="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688" alt="" data-size="original"><br><strong>Base</strong></p><p><br><code>#213213</code><br></p><p>R:878 G:767 B878</p> | <p><img src="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688" alt=""><br><strong>Succecs</strong></p><p><br><code>#321332</code></p><p>R:878 G:767 B878</p> | <p><img src="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688" alt=""><br><strong>Succecs</strong></p><p><br><code>#412522</code><br>RGB21312321</p> | <p><img src="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688" alt=""><br><strong>Succecs</strong></p><p><br><code>#323212</code></p><p>R:878 G:767 B878</p> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-{% tab title="Oranye Clipan" %}
-#### Oranye Clipan
+## Warna Produk
 
-* **HEX:** `#F37021`
-* **RGB:** (243, 112, 33)
-* **HSL:** 23, 89%, 54%
+|                                                                                                                                                                                                                                                                                    |   |   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
+| <p><img src="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688" alt=""><br></p> |   |   |
 
-**Variasi Opacity**
+**Warna Produk**
 
-| Opacity | Use Case          |
-| ------- | ----------------- |
-| 100%    | CTAs, Highlights  |
-| 75%     | Accent elements   |
-| 50%     | Hover effects     |
-| 25%     | Subtle indicators |
-{% endtab %}
-{% endtabs %}
+| <p><strong>NEW CAR</strong><br><img src="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688" alt="" data-size="line"> <code>#23213</code><img src="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688" alt="" data-size="line"> <kbd>#232131</kbd></p> | -newcar-primary | #321323   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------- |
+| <img src="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688" alt="" data-size="line"> new-secondary                                                                                                                                                                                                                                                                                                                                                     | -newcar-sec     | #gradient |
 
-## ⚪ Warna Sekunder
+{% columns %}
+{% column width="50%" %}
+New Car
 
-{% tabs %}
-{% tab title="Abu-abu" %}
-#### Sistem Grayscale
+<img src="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688" alt="" data-size="line"> `#323256`
 
-| Tone     | HEX       | Use Case           |
-| -------- | --------- | ------------------ |
-| White    | `#FFFFFF` | Background         |
-| Gray-50  | `#F5F5F5` | Section Background |
-| Gray-200 | `#E0E0E0` | Borders            |
-| Gray-500 | `#9E9E9E` | Disabled Text      |
-| Gray-900 | `#212121` | Body Text          |
-{% endtab %}
+<img src="https://3393043902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9SNDx1ixPG7gXZUK8maC%2Fuploads%2FwU3ux8nwp4ClxLlRiJKw%2FScreenshot%202025-08-30%20at%2017.25.14.png?alt=media&#x26;token=d5ed00f9-4e91-4917-8222-c93c69144688" alt="" data-size="line"> <kbd>#213232</kbd>
 
-{% tab title="Status Colors" %}
-#### Warna Status
+```
+#123234
+R:123 G:213 B:213
+C:213 M:213 Y:213 K:12
+```
+{% endcolumn %}
 
-| Status  | HEX       | Contoh Penggunaan    |
-| ------- | --------- | -------------------- |
-| Success | `#4CAF50` | Konfirmasi, Berhasil |
-| Error   | `#F44336` | Error, Delete        |
-| Warning | `#FFC107` | Peringatan           |
-| Info    | `#2196F3` | Informasi            |
-{% endtab %}
-{% endtabs %}
+{% column width="50%" %}
 
-## 🎯 Panduan Penggunaan
+{% endcolumn %}
+{% endcolumns %}
 
-{% hint style="warning" %}
-#### Rules & Guidelines
 
-1. Warna primer harus digunakan untuk:
-   * Call-to-action utama
-   * Headers dan navigasi
-   * Elemen brand penting
-2. Warna sekunder digunakan untuk:
-   * Background sections
-   * Text dan borders
-   * Status indicators
-{% endhint %}
-
-## ♿ Aksesibilitas
-
-{% hint style="success" %}
-#### WCAG Compliance
-
-* Rasio kontras minimal **4.5:1** untuk teks regular
-* Rasio kontras minimal **3:1** untuk teks besar (18pt+)
-* Pastikan warna tidak menjadi satu-satunya indikator untuk informasi penting
-{% endhint %}
-
-### Color Combinations Matrix
-
-| Background    | Text Color | Ratio | Status |
-| ------------- | ---------- | ----- | ------ |
-| Biru Clipan   | White      | 5.2:1 | ✅ Pass |
-| Oranye Clipan | Black      | 4.8:1 | ✅ Pass |
-| Gray-50       | Gray-900   | 16:1  | ✅ Pass |
 
 {% hint style="info" %}
-**Tools untuk checking:**
-
-* [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 * [Colorable](https://colorable.jxnblk.com/)
 {% endhint %}
