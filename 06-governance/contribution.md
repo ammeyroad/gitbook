@@ -1,7 +1,7 @@
 # 👥 How to Contribute
 
 {% hint style="info" %}
-Panduan ini menjelaskan cara berkontribusi pada Design System Clipan Finance, memastikan konsistensi dan kualitas dalam pengembangan sistem.
+Panduan ini menjelaskan cara berkontribusi pada Design System Clipan Finance, memastikan konsistensi dan kualitas dalam pengembangan jkjkj sistem.
 {% endhint %}
 
 ## 🎯 Contribution Process
