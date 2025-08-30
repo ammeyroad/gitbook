@@ -21,26 +21,32 @@ icon: palette
 
 #### Warna Produk
 
-| Warna                                                                                                   | css             | code                                     |
-| ------------------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------- |
-| <img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line">  new-car      | -newcar-primary | #321323                                  |
-| <img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line"> new-secondary | -newcar-sec     | [#gradient](warna.md#gradient "mention") |
+| Warna                                                                                                                                                                                                                                                              | css             | code                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ---------------------------------------- |
+| <p><strong>NEW CAR</strong><br><img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line">  <code>#232131</code><br><img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line"> <kbd>#232131</kbd></p> | -newcar-primary | #321323                                  |
+| <img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line"> new-secondary                                                                                                                                                            | -newcar-sec     | [#gradient](warna.md#gradient "mention") |
 
 {% columns %}
 {% column width="50%" %}
 <figure><img src=".gitbook/assets/https___gitbookio.github.io_onboarding-template-images_images-hero.webp" alt=""><figcaption></figcaption></figure>
 
-Primary
+New Car
+
+<img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line">  `#323256`&#x20;
+
+<img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line"> <kbd>#213232</kbd>
+
+
 
 ```
 #123234
 R:123 G:213 B:213
-C:213 M:213 Y:213 K:123
+C:213 M:213 Y:213 K:12
 ```
 {% endcolumn %}
 
 {% column width="50%" %}
-<figure><img src=".gitbook/assets/https___gitbookio.github.io_onboarding-template-images_images-hero.webp" alt=""><figcaption></figcaption></figure>
+
 {% endcolumn %}
 {% endcolumns %}
 
