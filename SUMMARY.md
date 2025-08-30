@@ -1,8 +1,8 @@
 # Table of contents
 
-* [gitbook](README.md)
-* [Wanra](wanra.md)
+* [Brand Center](README.md)
 * [Brand History](brand-history.md)
+* [Warna](warna.md)
 * [Basic Element](basic-element/README.md)
   * [Logo](basic-element/logo.md)
   * [Color System](basic-element/color-system.md)
