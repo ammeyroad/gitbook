@@ -21,10 +21,11 @@ icon: palette
 
 #### Warna Produk
 
-| Warna                                                                                                                                                                                                                                                              | css             | code                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ---------------------------------------- |
-| <p><strong>NEW CAR</strong><br><img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line">  <code>#232131</code><br><img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line"> <kbd>#232131</kbd></p> | -newcar-primary | #321323                                  |
-| <img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line"> new-secondary                                                                                                                                                            | -newcar-sec     | [#gradient](warna.md#gradient "mention") |
+| <p><strong>NEW CAR</strong><br><img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line">  <code>#23213</code><img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line"> <kbd>#232131</kbd></p> | -newcar-primary | #321323                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------- |
+| <img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line"> new-secondary                                                                                                                                                       | -newcar-sec     | [#gradient](warna.md#gradient "mention") |
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>NEW CAR</strong></td><td><img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line"> <code>#342443</code></td><td><img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line"> <a data-footnote-ref href="#user-content-fn-1">#231223</a></td></tr><tr><td><strong>USED CAR</strong></td><td><img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line"> #23123</td><td><img src=".gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png" alt="" data-size="line"> #213122</td></tr></tbody></table>
 
 {% columns %}
 {% column width="50%" %}
@@ -50,3 +51,6 @@ C:213 M:213 Y:213 K:12
 {% endcolumn %}
 {% endcolumns %}
 
+
+
+[^1]: 12
