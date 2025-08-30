@@ -12,13 +12,38 @@ Tipografi membantu menjaga konsistensi visual dan nada komunikasi brand. Sistem 
 | Body Text   | Poppins Regular              | Aa Bb Cc          |
 | Alternative | Arial, Helvetica, sans-serif | Aa Bb Cc          |
 
-## 📏 Hierarki & Ukuran
+## Heading / Judul
+
+{% columns %}
+{% column width="25%" valign="middle" %}
+## Heading Satu Clipan
+
+* 32–40px
+* Weight: Bold
+* Use case: Halaman utama, judul artikel
+
+
+{% endcolumn %}
+
+{% column width="75%" %}
+{% hint style="info" %}
+### Heading
+
+## Heading Satu Clipan
+
+* 32–40px
+* Weight: Bold
+* Use case: Halaman utama, judul artikel
+{% endhint %}
+{% endcolumn %}
+{% endcolumns %}
 
 {% tabs %}
 {% tab title="Headings" %}
 #### H1: Judul Utama
 
 * Ukuran: 32–40px
+*
 * Weight: Bold
 * Use case: Halaman utama, judul artikel
 
