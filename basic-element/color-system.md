@@ -8,6 +8,8 @@ Warna utama Clipan Finance mencerminkan profesionalisme, kepercayaan, dan semang
 
 {% tabs %}
 {% tab title="Biru Clipan" %}
+#### ![](<../.gitbook/assets/Screenshot 2025-08-30 at 17.25.14.png>)
+
 #### Biru Clipan
 
 * **HEX:** `#005BAC`
