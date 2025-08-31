@@ -1,3 +1,7 @@
+---
+icon: font-case
+---
+
 # Typography System
 
 {% hint style="info" %}
@@ -5,6 +9,8 @@ Tipografi membantu menjaga konsistensi visual dan nada komunikasi brand. Sistem 
 {% endhint %}
 
 ## 🎯 Font Utama
+
+## Aa Bb Cc
 
 | Penggunaan  | Font                         | Contoh            |
 | ----------- | ---------------------------- | ----------------- |
@@ -14,26 +20,62 @@ Tipografi membantu menjaga konsistensi visual dan nada komunikasi brand. Sistem 
 
 ## Heading / Judul
 
+## Heading Satu Clipan
+
+`0px 24rem | Bold`
+
+***
+
+### Heading Dua Clipan
+
+`0px 24rem | Bold`
+
+***
+
+#### Heading Tiga Clipan
+
+`0px 24rem | Bold`
+
+***
+
+{% hint style="info" %}
+0px 24rem | Bold
+
+***
+{% endhint %}
+
+{% hint style="info" %}
+0px 24rem | Bold
+
+***
+
+## Heading Satu Clipan
+{% endhint %}
+
 {% columns %}
-{% column width="25%" valign="middle" %}
+{% column width="41.66666666666667%" valign="middle" %}
 ## Heading Satu Clipan
 
 * 32–40px
 * Weight: Bold
 * Use case: Halaman utama, judul artikel
-
-
 {% endcolumn %}
 
-{% column width="75%" %}
+{% column width="58.33333333333333%" %}
 {% hint style="info" %}
-### Heading
+0px 24rem | Bold
+
+***
 
 ## Heading Satu Clipan
+{% endhint %}
 
-* 32–40px
-* Weight: Bold
-* Use case: Halaman utama, judul artikel
+{% hint style="info" %}
+40px 24rem | Bold
+
+***
+
+## Heading Satu Clipan
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -77,6 +119,38 @@ Tipografi membantu menjaga konsistensi visual dan nada komunikasi brand. Sistem 
 {% endtabs %}
 
 ## 🎨 Best Practices
+
+## The Joke Tax Chronicles <a href="#the-joke-tax-chronicles" id="the-joke-tax-chronicles"></a>
+
+Once upon a time, in a far-off land, there was a very lazy king who spent all day lounging on his throne. One day, his advisors came to him with a problem: the kingdom was running out of money.
+
+### [The King's Plan](https://shadcn-docs-nuxt.vercel.app/components/prose/markdown#the-kings-plan) <a href="#the-kings-plan" id="the-kings-plan"></a>
+
+The king thought long and hard, and finally came up with a brilliant plan: he would tax the jokes in the kingdom.
+
+> "After all," he said, "everyone enjoys a good joke, so it's only fair that they should pay for the privilege."
+
+#### [The Joke Tax](https://shadcn-docs-nuxt.vercel.app/components/prose/markdown#the-joke-tax) <a href="#the-joke-tax" id="the-joke-tax"></a>
+
+The king's subjects were not amused. They grumbled and complained, but the king was firm:
+
+* 1st level of puns: 5 gold coins
+* 2nd level of jokes: 10 gold coins
+* 3rd level of one-liners : 20 gold coins
+
+As a result, people stopped telling jokes, and the kingdom fell into a gloom. But there was one person who refused to let the king's foolishness get him down: a court jester named Jokester.
+
+#### [Jokester's Revolt](https://shadcn-docs-nuxt.vercel.app/components/prose/markdown#jokesters-revolt) <a href="#jokesters-revolt" id="jokesters-revolt"></a>
+
+Jokester began sneaking into the castle in the middle of the night and leaving jokes all over the place: under the king's pillow, in his soup, even in the royal toilet. The king was furious, but he couldn't seem to stop Jokester.
+
+And then, one day, the people of the kingdom discovered that the jokes left by Jokester were so funny that they couldn't help but laugh. And once they started laughing, they couldn't stop.
+
+#### [The People's Rebellion](https://shadcn-docs-nuxt.vercel.app/components/prose/markdown#the-peoples-rebellion) <a href="#the-peoples-rebellion" id="the-peoples-rebellion"></a>
+
+The people of the kingdom, feeling uplifted by the laughter, started to tell jokes and puns again, and soon the entire kingdom was in on the joke.
+
+<table data-view="cards"><thead><tr><th></th><th data-type="number"></th></tr></thead><tbody><tr><td>/</td><td>65656</td></tr></tbody></table>
 
 {% hint style="warning" %}
 #### Case Usage

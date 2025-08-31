@@ -1,3 +1,7 @@
+---
+icon: palette
+---
+
 # Color System
 
 {% hint style="info" %}

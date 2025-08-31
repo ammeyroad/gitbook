@@ -4,7 +4,6 @@
 * [Brand History](brand-history.md)
 * [Basic Element](basic-element/README.md)
   * [Logo](basic-element/logo.md)
-  * [Warna](basic-element/warna.md)
   * [Color System](basic-element/color-system.md)
   * [Typography System](basic-element/typography-system.md)
 * [Component](component/README.md)

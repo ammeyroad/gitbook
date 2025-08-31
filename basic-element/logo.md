@@ -1,3 +1,7 @@
+---
+icon: border-all
+---
+
 # Logo
 
 Logo adalah representasi utama identitas **Clipan Finance**.\
